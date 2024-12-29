@@ -1,0 +1,10 @@
+.box{
+    border:1px solid gray;
+    padding: 10px;
+    box-shadow: 1px 1px 1px gray;
+    background-color: beige;
+}
+.box:hover{
+    cursor: pointer;
+    background-color: azure;
+}
